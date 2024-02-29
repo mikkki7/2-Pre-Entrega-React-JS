@@ -1,0 +1,16 @@
+.contenedorCarrito{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 25px;
+    margin-right: 25px;
+}
+
+.iconoCarrito{
+    width: 25px;
+    height: 25px;
+}
+
+.contenedorContador{
+    margin-left: 10px;
+}
